@@ -4,7 +4,7 @@ A Data Analytics project focused on analyzing and visualizing COVID-19 pandemic 
 
 ---
 
-# 📌 Project Overview
+# Project Overview
 
 The COVID-19 pandemic generated a massive amount of public health data.  
 This project aims to:
