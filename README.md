@@ -18,7 +18,7 @@ This project aims to:
 
 ---
 
-# 🚀 Features
+# Features
 
 - Data Cleaning and Preprocessing
 - Exploratory Data Analysis (EDA)
