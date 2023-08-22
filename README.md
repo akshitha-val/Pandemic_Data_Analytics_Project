@@ -30,7 +30,7 @@ This project aims to:
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 - Python
 - Pandas
@@ -41,7 +41,7 @@ This project aims to:
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```bash
 COVID19/
