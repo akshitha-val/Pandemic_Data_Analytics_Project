@@ -56,7 +56,7 @@ COVID19/
 
 ---
 
-# 📊 Analysis Performed
+# Analysis Performed
 
 - Daily COVID-19 case trends
 - Death and recovery analysis
