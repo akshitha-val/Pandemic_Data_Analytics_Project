@@ -67,7 +67,7 @@ COVID19/
 
 ---
 
-# 📈 Sample Visualizations
+# Sample Visualizations
 
 The project includes:
 
