@@ -81,7 +81,7 @@ The project includes:
 
 # ⚙️ Installation
 
-## 📥 Clone the Repository
+## Clone the Repository
 
 ```bash
 git clone https://github.com/akshitha-val/Pandemic_Data_Analytics_Project.git
