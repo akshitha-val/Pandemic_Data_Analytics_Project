@@ -89,7 +89,7 @@ git clone https://github.com/akshitha-val/Pandemic_Data_Analytics_Project.git
 
 ---
 
-## 📂 Navigate to Project Directory
+## Navigate to Project Directory
 
 ```bash
 cd Pandemic_Data_Analytics_Project
@@ -97,7 +97,7 @@ cd Pandemic_Data_Analytics_Project
 
 ---
 
-## 📦 Install Dependencies
+## Install Dependencies
 
 ```bash
 pip install -r requirements.txt
