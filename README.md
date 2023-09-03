@@ -113,7 +113,7 @@ jupyter notebook
 
 ---
 
-# ▶️ Usage
+# Usage
 
 1. Add datasets inside the `data/` directory
 2. Open notebooks from the `notebooks/` folder
