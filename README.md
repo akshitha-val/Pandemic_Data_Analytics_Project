@@ -124,7 +124,7 @@ jupyter notebook
 
 # Git Commands
 
-## 📌 Check Git Status
+## Check Git Status
 
 ```bash
 git status
