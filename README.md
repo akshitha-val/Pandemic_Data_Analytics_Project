@@ -140,7 +140,7 @@ git add .
 
 ---
 
-## 💾 Commit Changes
+## Commit Changes
 
 ```bash
 git commit -m "Initial commit for COVID-19 Data Analysis project"
