@@ -148,7 +148,7 @@ git commit -m "Initial commit for COVID-19 Data Analysis project"
 
 ---
 
-## 🚀 Push to GitHub
+## Push to GitHub
 
 ```bash
 git push origin main
