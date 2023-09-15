@@ -156,7 +156,7 @@ git push origin main
 
 ---
 
-## 🔄 Pull Latest Changes
+## Pull Latest Changes
 
 ```bash
 git pull origin main
