@@ -164,7 +164,7 @@ git pull origin main
 
 ---
 
-## 🌿 Create New Branch
+## Create New Branch
 
 ```bash
 git checkout -b feature-branch
