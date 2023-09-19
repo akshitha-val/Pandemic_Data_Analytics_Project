@@ -172,7 +172,7 @@ git checkout -b feature-branch
 
 ---
 
-## 🔀 Switch Branch
+## Switch Branch
 
 ```bash
 git checkout main
