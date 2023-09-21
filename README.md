@@ -180,7 +180,7 @@ git checkout main
 
 ---
 
-# ⚙️ Git Configuration
+# Git Configuration
 
 ## Set Git Username
 
