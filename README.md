@@ -196,7 +196,7 @@ git config --global user.email "your-email@example.com"
 
 ---
 
-# 🔐 GitHub Authentication
+# GitHub Authentication
 
 If Git asks for authentication, use:
 
