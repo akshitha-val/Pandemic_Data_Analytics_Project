@@ -211,7 +211,7 @@ GitHub → Settings → Developer Settings → Personal Access Tokens
 
 ---
 
-# 🔮 Future Improvements
+# Future Improvements
 
 - Machine Learning-based prediction models
 - Interactive dashboard using Streamlit or Power BI
