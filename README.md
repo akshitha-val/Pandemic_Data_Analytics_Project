@@ -220,7 +220,7 @@ GitHub → Settings → Developer Settings → Personal Access Tokens
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Akshitha Vallabhaneni**  
 Data Analyst
