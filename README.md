@@ -233,7 +233,7 @@ This project is licensed under the MIT License.
 
 ---
 
-# 🌐 Repository Link
+# Repository Link
 
 ```text
 https://github.com/akshitha-val/Pandemic_Data_Analytics_Project
